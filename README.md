@@ -1,5 +1,8 @@
 # 📊 Excel Project Tracker – Mini Dashboard de Projetos
 
+![Dashboard de Projetos](img.jpeg)
+
+
 ## 🔹 Sobre
 
 Esta é uma planilha simples para **acompanhar o progresso de projetos ou atividades** no Excel. Permite visualizar rapidamente:
