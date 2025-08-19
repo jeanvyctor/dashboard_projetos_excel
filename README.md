@@ -8,7 +8,7 @@ Esta é uma planilha simples para **acompanhar o progresso de projetos ou ativid
 * % Completo (barra verde)
 * % Pendente (barra vermelha)
 
-Tudo feito **apenas com fórmulas e formatação condicional**, sem softwares caros ou macros.
+Tudo feito **apenas com fórmulas e formatação condicional**.
 
 ---
 
