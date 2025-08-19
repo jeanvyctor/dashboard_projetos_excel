@@ -82,4 +82,4 @@ Tudo feito **apenas com fórmulas e formatação condicional**, sem softwares ca
 
 ---
 
-💻 **Download da Planilha:** \[Link para arquivo Excel]
+💻 **Download da Planilha:** [Dashboard\_projetos.xlsx](https://github.com/jeanvyctor/dashboard_projetos_excel/blob/main/Dashboard_projetos.xlsx)
