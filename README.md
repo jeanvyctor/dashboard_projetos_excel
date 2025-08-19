@@ -1,6 +1,6 @@
 # 📊 Excel Project Tracker – Mini Dashboard de Projetos
 
-![Dashboard de Projetos](img.jpeg)
+![Dashboard de Projetos](img.PNG)
 
 
 ## 🔹 Sobre
